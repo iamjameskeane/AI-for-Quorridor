@@ -1,0 +1,8 @@
+*** PART III (10 pt) ***
+
+1) To test if the opening is good or not, you could play two bots against each other that use the same AI with the exception that one bot always places the two walls
+necessary to create the Reed Opening. We can then see if this opening improves the bot’s chances of winning by seeing if they win with a sizeable margin on the other bot.
+If on average the bot that plays the reed opening wins then we can infer that using this opening puts the bot that plays it at an advantage over the other bot.
+
+After playing 100 iterations of Quoridor using Dumb bots, where Bot X uses a reed opening, I found that Bot X won a total of 48 times. 
+Because the margin is so close between win/lossfor bot x. Therefore, we can conclude that using a reed opening does not give any discernible advantage
